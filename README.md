@@ -1,4 +1,5 @@
-## Hi there 👋
+![image banner](https://github.com/Ibra-studio/Ibra-studio/blob/main/LinkedIn%20cover%20-%201.png?raw=true)
+
 
 <!--
 **Ibra-studio/Ibra-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
