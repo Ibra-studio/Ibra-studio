@@ -46,12 +46,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/UIBRAHIM/UIBRAHIM/output/snake.svg" alt="Snake animation" />
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibra-studio/Ibra-studio/3cb79d67d2708c5248162beb6af5237813073bd6/github-snake-dark.svg" /> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibra-studio/Ibra-studio/3cb79d67d2708c5248162beb6af5237813073bd6/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ibra-studio/Ibra-studio/3cb79d67d2708c5248162beb6af5237813073bd6/github-snake.svg" />
 </picture>
 
 ###
