@@ -4,7 +4,7 @@
 
 # Hello World!, Je suis MAMADOU IBRAHIM DIAKITE, un AI software engineer malien👋🏼:
 
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+🛜Je travaille actuellement sur Talentix (ats)<br>👨🏼‍🎓 Je suis etudiant en ingenierie Logiciel et IA<br></i>
 
 ###
 
